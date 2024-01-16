@@ -12,18 +12,18 @@ terraform apply
 terraform destory
 ```
 
+
 ## AWS - Terraform
 - Need, Terraform CLI, AWS CLI, AWS creds
 - (learn whats in terraform block) https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
 - (Terraform REGISTRY) https://registry.terraform.io/
- - added creds to file to 
+
 ```TypeScript
+ /* stored aws creds for non-root user which has AWS cli 
+  */
  source (~/.aws/credentials)
 ```
 
-```TypeScript
-
-```
 
 ## Docker NGINX - Terraform config 
 /GoingTF/learn-terraform-docker-container
