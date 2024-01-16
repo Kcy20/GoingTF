@@ -13,10 +13,9 @@ terraform destory
 ```
 
 ## AWS - Terraform
-- (Terraform CLI req) https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
-- (AWS CLI req) https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
-- (AWS account req) https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
-- (AWS creds req IAM) https://docs.aws.amazon.com/IAM/latest/UserGuide/security-creds.html
+- Need, Terraform CLI, AWS CLI, AWS creds
+- (learn whats in terraform block) https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
+- (Terraform REGISTRY) https://registry.terraform.io/
  - added creds to file to 
 ```TypeScript
  source (~/.aws/credentials)
