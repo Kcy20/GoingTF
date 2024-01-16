@@ -16,9 +16,10 @@ terraform destory
 
 ```
 
-## Docker NGINX - Terraform config (/GoingTF/learn-terraform-docker-container)
+## Docker NGINX - Terraform config 
 
 ```TypeScript
+# (/GoingTF/learn-terraform-docker-container)
 terraform {
   required_providers {
     docker = {
