@@ -7,6 +7,8 @@
 ## Quick CMDS
 ```TypeScript
 terraform init
+terraform fmt
+terraform validate
 terraform plan -out=terraform.plan
 terraform apply
 terraform destory
