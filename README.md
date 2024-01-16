@@ -5,20 +5,20 @@
 - https://developer.hashicorp.com/terraform/tutorials
 
 ## Quick CMDS
-```JSON
+```TypeScript
 terraform init
 terraform plan -out=terraform.plan
 terraform apply
 terraform destory
 ```
 
-```JSON
+```TypeScript
 
 ```
 
 ## Docker NGINX - Terraform config (/GoingTF/learn-terraform-docker-container)
 
-```JSON
+```TypeScript
 terraform {
   required_providers {
     docker = {
