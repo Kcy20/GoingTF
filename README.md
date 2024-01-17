@@ -18,9 +18,11 @@ terraform destory
 
 
 ## AWS - Terraform
-- Need, Terraform CLI, AWS CLI, AWS creds
-- (learn whats in terraform block) https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
+- Need: Terraform CLI, AWS CLI, AWS creds, store tf state files
+- (terraform block) https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
 - (Terraform REGISTRY) https://registry.terraform.io/
+- (Good read on Terraform state store) https://spacelift.io/blog/terraform-state
+- (Terraform cloud for remote state) https://www.hashicorp.com/blog/using-terraform-cloud-remote-state-management
 
 ```TypeScript
  /* stored aws creds for non-root user which has AWS cli 
