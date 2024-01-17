@@ -1,3 +1,6 @@
 /learn-terraform-aws-instance/.terraform/*
 /learn-terraform-aws-instance/terraform.*
 /learn-terraform-aws-instance/.terraform.*
+/*/.terraform/*
+/*/terraform.*
+/*/.terraform.*
