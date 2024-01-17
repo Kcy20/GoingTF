@@ -1,2 +1,2 @@
-~/GoingTF/learn-terraform-aws-instance/.terraform/*
-~/GoingTF/learn-terraform-aws-instance/terraform*
+/learn-terraform-aws-instance/.terraform/*
+/learn-terraform-aws-instance/terraform*
