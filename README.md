@@ -4,7 +4,7 @@
 ## Fresh Terraform IaC project
 - https://developer.hashicorp.com/terraform/tutorials
 
-## Quick CMDS
+## CMDS
 ```TypeScript
 terraform init
 terraform fmt
