@@ -23,6 +23,7 @@ terraform destory
 - (Terraform REGISTRY) https://registry.terraform.io/
 - (Good read on Terraform state store) https://spacelift.io/blog/terraform-state
 - (Terraform cloud for remote state) https://www.hashicorp.com/blog/using-terraform-cloud-remote-state-management
+- (AMI catalog) - https://us-west-2.console.aws.amazon.com/ec2/home?region=us-west-2#AMICatalog:
 
 ```TypeScript
  /* stored aws creds for non-root user which has AWS cli 
